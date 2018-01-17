@@ -1,0 +1,9 @@
+#bag-health{
+	width: 200px;
+	border: 2px solid #000;
+}
+
+#bag-health div{
+	background-color: green;
+	height: 10px;
+}
